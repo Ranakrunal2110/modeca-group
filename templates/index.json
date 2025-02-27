@@ -1,0 +1,311 @@
+{
+  "sections": {
+    "slideshow": {
+      "type": "slideshow",
+      "blocks": {
+        "slide-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Marquee_1.png",
+            "content_max_width": 780,
+            "mobile_text_position": "place-self-center-start text-start",
+            "desktop_text_position": "sm:place-self-center-start sm:text-start",
+            "subheading": "En Modeca Group",
+            "title": "Lo hacemos posible",
+            "heading_tag": "h0",
+            "button_text": "Conoce más",
+            "button_link": "#",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 25,
+            "background": "",
+            "background_gradient": ""
+          }
+        },
+        "slide-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Marquee_1.png",
+            "content_max_width": 780,
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "subheading": "Tell your story",
+            "title": "Slide title",
+            "heading_tag": "h0",
+            "button_text": "Conoce más",
+            "button_link": "#",
+            "text_color": "#ffffff",
+            "button_background": "#1a1a1a",
+            "button_text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30,
+            "background": "",
+            "background_gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "slide-1",
+        "slide-2"
+      ],
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "show_initial_transition": true,
+        "image_size": "fill",
+        "controls_type": "outline_arrows",
+        "transition_type": "fade_with_text",
+        "autoplay": true,
+        "cycle_speed": 6,
+        "background": "#f2f2f2",
+        "background_gradient": "linear-gradient(60deg, rgba(60, 65, 68, 1), rgba(23, 29, 33, 1) 98%)"
+      }
+    },
+    "rich_text_HX6qxf": {
+      "type": "rich-text",
+      "blocks": {
+        "richtext_ijUrgW": {
+          "type": "richtext",
+          "settings": {
+            "content": "<h2><strong>Dos líneas<\/strong>, un mismo compromiso<\/h2><p>En Modeca Home, transformamos hogares con mobiliario y cortinas que aportan estilo y confort. Modeca Contract ofrece soluciones para hoteles, restaurantes y oficinas, creando espacios modernos y funcionales. Nos enfocamos en diseño, calidad y bienestar, superando expectativas en cada proyecto.<\/p><p> Conoce nuestros segmentos:<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "richtext_ijUrgW"
+      ],
+      "settings": {
+        "full_width": true,
+        "content_width": "large",
+        "text_position": "start",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "featured-collection": {
+      "type": "featured-collection",
+      "settings": {
+        "collection": "",
+        "products": [],
+        "full_width": true,
+        "stack_products": false,
+        "show_progress_bar": true,
+        "products_count": 6,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 4,
+        "subheading": "",
+        "title": "¿Qué estás buscando?",
+        "content": "",
+        "link_url": "",
+        "link_text": "Ver todo",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "product_card_background": "",
+        "product_card_text_color": ""
+      }
+    },
+    "scrolling-text": {
+      "type": "scrolling-text",
+      "settings": {
+        "full_width": true,
+        "text": "Acompañamos tu visión y la convertimos en realidad.  En Modeca Group lo hacemos posible",
+        "text_size": "medium",
+        "text_style": "fill",
+        "scrolling_mode": "auto",
+        "scrolling_speed": 20,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "text_gradient": ""
+      }
+    },
+    "image-with-text-overlay": {
+      "type": "image-with-text-overlay",
+      "blocks": {
+        "1664424230c4756b0e-0": {
+          "type": "subheading",
+          "settings": {
+            "text": "Green Edition by Modeca Group"
+          }
+        },
+        "1664424230c4756b0e-1": {
+          "type": "heading",
+          "settings": {
+            "text": "Innovación y sostenibilidad para tus espacios exteriores.",
+            "heading_tag": "h1"
+          }
+        },
+        "1664424230c4756b0e-2": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Diseñamos áreas al aire libre que respetan el planeta, colaborando con proveedores eco-amigables. Desde parasoles que purifican el aire hasta mobiliario reciclado, cada detalle une diseño y responsabilidad ambiental.<\/p><p><strong>Transforma tus espacios y sé parte del cambio con Green Edition.<\/strong><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1664424230c4756b0e-0",
+        "1664424230c4756b0e-1",
+        "1664424230c4756b0e-2"
+      ],
+      "settings": {
+        "full_width": false,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify:\/\/shop_images\/Marquee_2.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 20
+      }
+    },
+    "featured_collection_FnBXYe": {
+      "type": "featured-collection",
+      "settings": {
+        "collection": "",
+        "products": [],
+        "full_width": true,
+        "stack_products": false,
+        "show_progress_bar": true,
+        "products_count": 6,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 4,
+        "subheading": "",
+        "title": "¿Qué estás buscando?",
+        "content": "",
+        "link_url": "",
+        "link_text": "Ver todos los productos",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "product_card_background": "",
+        "product_card_text_color": ""
+      }
+    },
+    "press_WHfbyA": {
+      "type": "press",
+      "blocks": {
+        "quote_4TdMet": {
+          "type": "quote",
+          "settings": {
+            "logo": "shopify:\/\/shop_images\/user_1.png",
+            "logo_width": 100,
+            "author": "Daniela Vargas",
+            "content": "\"Creamos muebles y diseñamos para una gran variedad de entornos. En el hogar, espacios públicos, espacios profesionales y todos los espacios intermedios.\"",
+            "show_rating": false,
+            "rating": 4
+          }
+        },
+        "quote_rjmmKj": {
+          "type": "quote",
+          "settings": {
+            "logo": "shopify:\/\/shop_images\/user_1.png",
+            "logo_width": 100,
+            "author": "Daniela Vargas",
+            "content": "\"Creamos muebles y diseñamos para una gran variedad de entornos. En el hogar, espacios públicos, espacios profesionales y todos los espacios intermedios.\"",
+            "show_rating": false,
+            "rating": 4
+          }
+        },
+        "quote_dBPJ8Y": {
+          "type": "quote",
+          "settings": {
+            "logo": "shopify:\/\/shop_images\/user_1.png",
+            "logo_width": 100,
+            "author": "Daniela Vargas",
+            "content": "\"Creamos muebles y diseñamos para una gran variedad de entornos. En el hogar, espacios públicos, espacios profesionales y todos los espacios intermedios.\"",
+            "show_rating": false,
+            "rating": 4
+          }
+        }
+      },
+      "block_order": [
+        "quote_4TdMet",
+        "quote_rjmmKj",
+        "quote_dBPJ8Y"
+      ],
+      "settings": {
+        "full_width": true,
+        "content_size": "medium",
+        "background": "#3b4046",
+        "background_gradient": "",
+        "text_color": "#f1f1f1",
+        "heading_color": "",
+        "heading_gradient": "",
+        "logo_item_background": "",
+        "logo_item_border": ""
+      }
+    },
+    "blog_posts_8JTiTh": {
+      "type": "blog-posts",
+      "blocks": {
+        "article_LrrigJ": {
+          "type": "article",
+          "settings": {
+            "article": "news\/una-empresa-con-diseno-innovador",
+            "background": "rgba(0,0,0,0)",
+            "text_color": "rgba(0,0,0,0)"
+          }
+        }
+      },
+      "block_order": [
+        "article_LrrigJ"
+      ],
+      "settings": {
+        "full_width": true,
+        "show_excerpt": true,
+        "show_date": true,
+        "show_author": false,
+        "show_comments_count": false,
+        "show_category": true,
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "link_url": "",
+        "link_text": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
+    },
+    "newsletter_f74a63": {
+      "type": "newsletter",
+      "settings": {
+        "full_width": false,
+        "image": "shopify:\/\/shop_images\/CORNER_TABLE_FOTOS_INDOOR_01_1.png",
+        "show_icon": false,
+        "title": "Suscríbete al boletín informativo.",
+        "content": "<p>Recibe notificaciones sobre nuevas historias, noticias y ofertas personalizadas.<\/p>",
+        "button_text": "Suscribirse",
+        "subtext": "Al completar este formulario, se está registrando para recibir nuestros correos electrónicos. Puede cancelar la suscripción en cualquier momento.",
+        "background": "#dbe2e5",
+        "background_gradient": "",
+        "text_color": "",
+        "button_background": "",
+        "button_text_color": ""
+      }
+    }
+  },
+  "order": [
+    "slideshow",
+    "rich_text_HX6qxf",
+    "featured-collection",
+    "scrolling-text",
+    "image-with-text-overlay",
+    "featured_collection_FnBXYe",
+    "press_WHfbyA",
+    "blog_posts_8JTiTh",
+    "newsletter_f74a63"
+  ]
+}
